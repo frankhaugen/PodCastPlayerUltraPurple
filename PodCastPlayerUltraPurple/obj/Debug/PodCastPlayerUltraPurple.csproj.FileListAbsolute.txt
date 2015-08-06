@@ -20,3 +20,25 @@ c:\users\frank\onedrive\documents\visual studio 2015\Projects\PodCastPlayerUltra
 c:\users\frank\onedrive\documents\visual studio 2015\Projects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple_Content.g.cs
 c:\users\frank\onedrive\documents\visual studio 2015\Projects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\dotnetrocksfeed.xml
 C:\Users\frank\onedrive\documents\visual studio 2015\Projects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\podcastlist.xml
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\PodCastPlayerUltraPurple.exe.config
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple.exe
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple.pdb
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\podcastlist.xml
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\dotnetrocksfeed.xml
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\libmp3lame.32.dll
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\libmp3lame.64.dll
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\PodCastPlayerUltraPurple.exe
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\PodCastPlayerUltraPurple.pdb
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\NAudio.dll
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\NAudio.Lame.dll
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\bin\Debug\NAudio.xml
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\App.g.cs
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple_Content.g.cs
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple_MarkupCompile.cache
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple_MarkupCompile.lref
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\MainWindow.baml
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple.g.resources
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple.Properties.Resources.resources
+D:\Dropbox\Dropbox\Projects\GitProjects\PodCastPlayerUltraPurple\PodCastPlayerUltraPurple\obj\Debug\PodCastPlayerUltraPurple.csproj.GenerateResource.Cache
