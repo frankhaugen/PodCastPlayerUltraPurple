@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<podcasts>
+	<podcast name=".Net Rocks" id="1" url="http://www.pwop.com/feed.aspx?show=dotnetrocks" favorite="true" />
+
+	<podcast name="SourceFed" id="2" url="http://feeds.soundcloud.com/users/soundcloud:users:150593546/sounds.rss" favorite="true" />
+</podcasts>
